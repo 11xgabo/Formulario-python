@@ -1,0 +1,6 @@
+{
+  "name": "Patitas & Co. - Registro de Clientes",
+  "description": "Sistema de registro de clientes para tienda de mascotas, optimizado para pruebas de automatización con Selenium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
